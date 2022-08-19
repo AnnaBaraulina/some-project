@@ -327,6 +327,7 @@
 
 .ready {
     background-color: #E0F391;
+    
 }
 
 .ready-line {
@@ -450,4 +451,54 @@
 
 .like-icon_active {
     background-image: url(./images/likeactive.svg);
+}
+
+.popup {
+    max-width: 500px;
+    min-height: 250px;
+    border-radius: 20px;
+    display: none;
+    position: fixed;
+    top: 50%;
+    right: 20%;
+    z-index: 2;
+   
+}
+
+.modal-container {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: white;
+    color: black;
+    
+    text-align: center;
+}
+
+.title {
+    
+}
+
+.close-modal {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+         appearance: none;
+ border: 0;
+ padding: 0;
+ border-radius: 0;
+ width: 60px;
+ height: 15px;
+ background-color: #000000;
+ 
+ color: #C4C4C4;
+ 
+ 
+}
+
+.popup_open {
+    display: flex;
+}
+
+.header {
+    margin-top: 10px;
 }
