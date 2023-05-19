@@ -1,4 +1,3 @@
-Макет для отработки навыков по JS.
-Свёрстан за короткое время, без соблюдения БЭМ Нэстед и адаптивности для отработки некоторых навыков Java Script.
-Макет взят из группы в телеграм-канале Макеты для вёрстки.
-ссылка на гитхаб пейджес: https://annabaraulina.github.io/some-project/
+__Landing page for a design studio.__
+
+For the purpose of practicing my layout skills, I created a landing page based on a free design concept in Figma. Only the desktop version of the website is implemented.
